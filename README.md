@@ -7,4 +7,7 @@ Because of the limit of file size on Github, please move into following netdisk 
 - Link: http://pan.baidu.com/s/1nuBY9O9
 - Password: `j3vg`
 
+## Dropbox (Recommend for Developers from other countries and regions)
+- Link: https://www.dropbox.com/s/wmkvftr9uizynsm/hadoop-eclipse-plugin-2.7.3.jar?dl=0
+
 ## More download sites will be updated.
